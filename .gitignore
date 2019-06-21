@@ -1,0 +1,11 @@
+out/
+.idea/
+logs/CodeCraft-2019.log
+bin/logs/
+bin/answer.txt
+CodeCraft-2019-1.0.tar.gz
+bin/CodeCraft-2019-1.0.jar
+bin/config/answer.txt
+bin/lib/
+bin/resources/
+code/CodeCraft-2019/bin/
